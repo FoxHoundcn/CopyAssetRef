@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FX_Plugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

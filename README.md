@@ -1,0 +1,8 @@
+# CopyAssetRef
+1：Open UnrealEditor Menu Bar "Edit->Plugins"
+2: Find CopyAssetRef and open it
+3：Select a resource you want to copy
+4：Right click on it
+5：select “Get Asset Dependencies”
+6：find project root directory /TMP
+7：There will be this asset, and other assets referenced by it
